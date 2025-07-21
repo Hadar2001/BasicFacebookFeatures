@@ -1,0 +1,135 @@
+<?xml version="1.0"?>
+<ArrayOfMockEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MockEvent>
+    <Id>e44c68b9-cf82-45fa-9f34-3b6e10ff1dbd</Id>
+    <StartDate>2025-05-12T19:00:00+03:00</StartDate>
+    <EndDate>2025-05-12T23:00:00+03:00</EndDate>
+    <Name>Music for Coders</Name>
+    <Description>A live event featuring music tailored for coding productivity, featuring electronic beats and ambient sounds.</Description>
+    <Location>Online</Location>
+    <AttendingCount>0</AttendingCount>
+    <MaybeCount>0</MaybeCount>
+    <ImageUrl>https://picsum.photos/id/178/300</ImageUrl>
+  </MockEvent>
+  <MockEvent>
+    <Id>00f29a98-9e49-47ab-90b3-3fc6784670a9</Id>
+    <StartDate>2025-05-14T20:00:00+03:00</StartDate>
+    <EndDate>2025-05-14T23:00:00+03:00</EndDate>
+    <Name>Hackathon for Good</Name>
+    <Description>A 24-hour hackathon to develop solutions for social causes with fellow developers.</Description>
+    <Location>Online</Location>
+    <AttendingCount>0</AttendingCount>
+    <MaybeCount>1</MaybeCount>
+    <ImageUrl>https://picsum.photos/id/456/300</ImageUrl>
+  </MockEvent>
+  <MockEvent>
+    <Id>ef7bc585-11fe-4f36-b84a-34a73bcfa31a</Id>
+    <StartDate>2025-05-16T15:00:00+03:00</StartDate>
+    <EndDate>2025-05-16T18:00:00+03:00</EndDate>
+    <Name>Music Code Workshop</Name>
+    <Description>A workshop where we explore the intersection of programming and music, creating generative music with code.</Description>
+    <Location>Online</Location>
+    <AttendingCount>0</AttendingCount>
+    <MaybeCount>2</MaybeCount>
+    <ImageUrl>https://picsum.photos/id/678/300</ImageUrl>
+  </MockEvent>
+  <MockEvent>
+    <Id>4539e6b8-3a01-45ea-b3d5-ea8a6f3e6f3d</Id>
+    <StartDate>2025-05-18T21:00:00+03:00</StartDate>
+    <EndDate>2025-05-19T01:00:00+03:00</EndDate>
+    <Name>Electronica Coding</Name>
+    <Description>An event where programmers and musicians come together to create live electronic music through coding.</Description>
+    <Location>Online</Location>
+    <AttendingCount>0</AttendingCount>
+    <MaybeCount>3</MaybeCount>
+    <ImageUrl>https://picsum.photos/id/789/300</ImageUrl>
+  </MockEvent>
+  <MockEvent>
+    <Id>0a425ded-8daa-4e76-bef8-535822923f95</Id>
+    <StartDate>2025-05-19T20:28:59.9253651+03:00</StartDate>
+    <EndDate>2025-05-20T20:28:59.9253651+03:00</EndDate>
+    <Name>C# Course</Name>
+    <Description>Guy Ronen Design Patterns</Description>
+    <Location>New Event Location</Location>
+    <AttendingCount>5</AttendingCount>
+    <MaybeCount>3</MaybeCount>
+    <ImageUrl>https://picsum.photos/id/620/300</ImageUrl>
+  </MockEvent>
+  <MockEvent>
+    <Id>9358b4f6-4170-47d3-b627-9fd7b7f3a40b</Id>
+    <StartDate>2025-05-22T17:00:00+03:00</StartDate>
+    <EndDate>2025-05-22T21:00:00+03:00</EndDate>
+    <Name>Coding Music Sync Party</Name>
+    <Description>Join us for a sync party where you can code and enjoy curated playlists designed to enhance coding focus.</Description>
+    <Location>Online</Location>
+    <AttendingCount>4</AttendingCount>
+    <MaybeCount>0</MaybeCount>
+    <ImageUrl>https://picsum.photos/id/890/300</ImageUrl>
+  </MockEvent>
+  <MockEvent>
+    <Id>3aef315f-a1c6-4a88-8c27-bda64cce0c1f</Id>
+    <StartDate>2025-05-22T20:28:59.9253651+03:00</StartDate>
+    <EndDate>2025-05-23T20:28:59.9253651+03:00</EndDate>
+    <Name>C# Course</Name>
+    <Description>Guy Ronen Design Patterns</Description>
+    <Location>New Event Location</Location>
+    <AttendingCount>5</AttendingCount>
+    <MaybeCount>3</MaybeCount>
+    <ImageUrl>https://picsum.photos/id/620/300</ImageUrl>
+  </MockEvent>
+  <MockEvent>
+    <Id>1e2a96ab-dcae-4c72-9ec7-f11d79ff6ad5</Id>
+    <StartDate>2025-05-25T18:00:00+03:00</StartDate>
+    <EndDate>2025-05-25T22:00:00+03:00</EndDate>
+    <Name>Code Jam Session</Name>
+    <Description>A jam session combining both coding and music, where participants create a fun project while jamming to music.</Description>
+    <Location>Online</Location>
+    <AttendingCount>5</AttendingCount>
+    <MaybeCount>0</MaybeCount>
+    <ImageUrl>https://picsum.photos/id/102/300</ImageUrl>
+  </MockEvent>
+  <MockEvent>
+    <Id>49b12f31-8da9-4a6c-9792-f8a9f8d86ee7</Id>
+    <StartDate>2025-05-25T20:28:59.9253651+03:00</StartDate>
+    <EndDate>2025-05-26T20:28:59.9253651+03:00</EndDate>
+    <Name>C# Course</Name>
+    <Description>Guy Ronen Design Patterns</Description>
+    <Location>New Event Location</Location>
+    <AttendingCount>5</AttendingCount>
+    <MaybeCount>3</MaybeCount>
+    <ImageUrl>https://picsum.photos/id/620/300</ImageUrl>
+  </MockEvent>
+  <MockEvent>
+    <Id>abe5255a-c6f3-447a-a150-632c8afb671d</Id>
+    <StartDate>2025-05-28T20:28:59.9253651+03:00</StartDate>
+    <EndDate>2025-05-29T20:28:59.9253651+03:00</EndDate>
+    <Name>C# Course</Name>
+    <Description>Guy Ronen Design Patterns</Description>
+    <Location>New Event Location</Location>
+    <AttendingCount>5</AttendingCount>
+    <MaybeCount>3</MaybeCount>
+    <ImageUrl>https://picsum.photos/id/620/300</ImageUrl>
+  </MockEvent>
+  <MockEvent>
+    <Id>6c52171c-d31d-40b3-98cb-257da002eb7e</Id>
+    <StartDate>2025-05-31T20:28:59.9253651+03:00</StartDate>
+    <EndDate>2025-06-01T20:28:59.9253651+03:00</EndDate>
+    <Name>C# Course</Name>
+    <Description>Guy Ronen Design Patterns</Description>
+    <Location>New Event Location</Location>
+    <AttendingCount>5</AttendingCount>
+    <MaybeCount>3</MaybeCount>
+    <ImageUrl>https://picsum.photos/id/620/300</ImageUrl>
+  </MockEvent>
+  <MockEvent>
+    <Id>bafd244f-f6d6-4d77-81e9-8d518ca9ae2b</Id>
+    <StartDate>2025-06-03T20:28:59.9253651+03:00</StartDate>
+    <EndDate>2025-06-04T20:28:59.9253651+03:00</EndDate>
+    <Name>C# Course</Name>
+    <Description>Guy Ronen Design Patterns</Description>
+    <Location>New Event Location</Location>
+    <AttendingCount>5</AttendingCount>
+    <MaybeCount>3</MaybeCount>
+    <ImageUrl>https://picsum.photos/id/620/300</ImageUrl>
+  </MockEvent>
+</ArrayOfMockEvent>
