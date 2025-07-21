@@ -68,8 +68,8 @@ All UML diagrams (PDF) are in the [`Diagrams`](./Diagrams) folder:
 - Facebook API (via `FacebookWrapper.dll`)
 - System.Windows.Forms.DataVisualization
 - Git & GitHub
+  
+## 📄 License
 
-## 🔗 GitHub Repository
-
-Feel free to clone, review, or contribute:  
-[https://github.com/Hadar2001/BasicFacebookFeatures](https://github.com/Hadar2001/BasicFacebookFeatures)
+This project is licensed under the MIT License.  
+🔗 [https://github.com/Hadar2001/BasicFacebookFeatures](https://github.com/Hadar2001/BasicFacebookFeatures)
